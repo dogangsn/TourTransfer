@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TourTransfer/v16/.suo
+/.vs/TourTransfer/v17
+/src/Core/TourTransfer.Application/obj
+/src/Core/TourTransfer.Domain/obj
+/src/Infrastructure/TourTransfer.Infrastructure/obj
+/src/Infrastructure/TourTransfer.Persistence/obj
+/.vs/TourTransfer/FileContentIndex
+.vs/ProjectEvaluation/tourtransfer.metadata.v5.2
+.vs/ProjectEvaluation/tourtransfer.projects.v5.2
+.vs/TourTransfer/DesignTimeBuild/.dtbcache.v2
