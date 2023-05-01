@@ -28,9 +28,4 @@
     <ProjectReference Include="..\..\Core\TourTransfer.Domain\TourTransfer.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="UnitOfWorks\" />
-    <Folder Include="Repositories\" />
-  </ItemGroup>
-
 </Project>
