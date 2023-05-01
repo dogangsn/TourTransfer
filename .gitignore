@@ -12,3 +12,4 @@
 .vs/ProjectEvaluation/tourtransfer.metadata.v5.2
 .vs/ProjectEvaluation/tourtransfer.projects.v5.2
 .vs/TourTransfer/DesignTimeBuild/.dtbcache.v2
+/src/Presentation/TourTransfer.WebAPI/appsettings.Local.json
