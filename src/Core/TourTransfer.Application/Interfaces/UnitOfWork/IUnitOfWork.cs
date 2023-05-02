@@ -7,10 +7,15 @@ using System.Threading.Tasks;
 
 namespace TourTransfer.Application.Interfaces.UnitOfWork
 {
-    public interface IUnitOfWork : IAsyncDisposable
+    public interface IUnitOfWork : IDisposable
     {
         //IDbContextTransaction : EntityFrameworkCore kütüphanesine ihtiyaç vardır.
         Task<IDbContextTransaction> BeginTransactionAsync();
-        
+        Task<int> SaveChangesAsync(CancellationToken cancellationToken = default(CancellationToken));
+        List<T> Query<T>(string query, object parameters);
+        List<T> Query<T>(string query);
+        void Commit();
+        void Rollback();
+
     }
 }

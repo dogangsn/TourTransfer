@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TourTransfer.Persistence.Repositories
 {
-    internal class Repository
+    public class Repository
     {
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Dapper;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +15,16 @@ namespace TourTransfer.Persistence.Context
         {}
         public DbSet<Reservation> Reservation { get; set; }
 
+
+        public List<T> SQLQuery<T>(string query, object parameters)
+        {
+
+            return Database.GetDbConnection().Query<T>(query, param: parameters).ToList();
+        }
+        public List<T> SQLQuery<T>(string query)
+        {
+            return Database.GetDbConnection().Query<T>(query).ToList();
+        }
 
     }
 }

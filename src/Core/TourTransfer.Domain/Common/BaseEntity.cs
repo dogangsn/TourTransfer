@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TourTransfer.Domain.Common
 {
-    public class BaseEntity
+    public abstract class BaseEntity
     {
         public Guid Id { get; set; }
         public bool Deleted { get; set; }
