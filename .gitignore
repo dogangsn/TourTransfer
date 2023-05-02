@@ -449,3 +449,12 @@ Blog
 About
 
 /src/Presentation/TourTransfer.WebAPI/appsettings.Local.json
+/src/Presentation/TourTransfer.WebAPI/obj/Debug/net7.0/TourTransfer.WebAPI.pdb
+/src/Infrastructure/TourTransfer.Persistence/bin/Debug/net7.0/TourTransfer.Persistence.dll
+/src/Infrastructure/TourTransfer.Persistence/bin/Debug/net7.0/TourTransfer.Persistence.pdb
+/src/Presentation/TourTransfer.WebAPI/bin/Debug/net7.0/TourTransfer.Persistence.dll
+/src/Presentation/TourTransfer.WebAPI/bin/Debug/net7.0/TourTransfer.Persistence.pdb
+/src/Presentation/TourTransfer.WebAPI/obj/Debug/net7.0/TourTransfer.WebAPI.dll
+/src/Presentation/TourTransfer.WebAPI/obj/Debug/net7.0/TourTransfer.WebAPI.csproj.AssemblyReference.cache
+/src/Presentation/TourTransfer.WebAPI/bin/Debug/net7.0/TourTransfer.WebAPI.pdb
+/src/Presentation/TourTransfer.WebAPI/bin/Debug/net7.0/TourTransfer.WebAPI.dll
