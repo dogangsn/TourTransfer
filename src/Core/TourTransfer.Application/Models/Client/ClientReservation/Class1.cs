@@ -8,5 +8,8 @@ namespace TourTransfer.Application.Models.Client.ClientReservation
 {
     internal class Class1
     {
+
+
+
     }
 }
