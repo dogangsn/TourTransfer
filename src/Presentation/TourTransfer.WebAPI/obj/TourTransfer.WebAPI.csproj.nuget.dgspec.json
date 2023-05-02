@@ -1,42 +1,46 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Presentation\\TourTransfer.WebAPI\\TourTransfer.WebAPI.csproj": {}
+    "D:\\Private\\Project\\TourTransfer\\src\\Presentation\\TourTransfer.WebAPI\\TourTransfer.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Core\\TourTransfer.Application\\TourTransfer.Application.csproj": {
+    "D:\\Private\\Project\\TourTransfer\\src\\Core\\TourTransfer.Application\\TourTransfer.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Core\\TourTransfer.Application\\TourTransfer.Application.csproj",
+        "projectUniqueName": "D:\\Private\\Project\\TourTransfer\\src\\Core\\TourTransfer.Application\\TourTransfer.Application.csproj",
         "projectName": "TourTransfer.Application",
-        "projectPath": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Core\\TourTransfer.Application\\TourTransfer.Application.csproj",
-        "packagesPath": "C:\\Users\\furkan.zingal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Core\\TourTransfer.Application\\obj\\",
+        "projectPath": "D:\\Private\\Project\\TourTransfer\\src\\Core\\TourTransfer.Application\\TourTransfer.Application.csproj",
+        "packagesPath": "C:\\Users\\dogan\\.nuget\\packages\\",
+        "outputPath": "D:\\Private\\Project\\TourTransfer\\src\\Core\\TourTransfer.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\furkan.zingal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dogan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {
-              "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Core\\TourTransfer.Domain\\TourTransfer.Domain.csproj": {
-                "projectPath": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Core\\TourTransfer.Domain\\TourTransfer.Domain.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -70,33 +74,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Core\\TourTransfer.Domain\\TourTransfer.Domain.csproj": {
+    "D:\\Private\\Project\\TourTransfer\\src\\Core\\TourTransfer.Domain\\TourTransfer.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Core\\TourTransfer.Domain\\TourTransfer.Domain.csproj",
+        "projectUniqueName": "D:\\Private\\Project\\TourTransfer\\src\\Core\\TourTransfer.Domain\\TourTransfer.Domain.csproj",
         "projectName": "TourTransfer.Domain",
-        "projectPath": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Core\\TourTransfer.Domain\\TourTransfer.Domain.csproj",
-        "packagesPath": "C:\\Users\\furkan.zingal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Core\\TourTransfer.Domain\\obj\\",
+        "projectPath": "D:\\Private\\Project\\TourTransfer\\src\\Core\\TourTransfer.Domain\\TourTransfer.Domain.csproj",
+        "packagesPath": "C:\\Users\\dogan\\.nuget\\packages\\",
+        "outputPath": "D:\\Private\\Project\\TourTransfer\\src\\Core\\TourTransfer.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\furkan.zingal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dogan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -130,33 +142,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Infrastructure\\TourTransfer.Infrastructure\\TourTransfer.Infrastructure.csproj": {
+    "D:\\Private\\Project\\TourTransfer\\src\\Infrastructure\\TourTransfer.Infrastructure\\TourTransfer.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Infrastructure\\TourTransfer.Infrastructure\\TourTransfer.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Private\\Project\\TourTransfer\\src\\Infrastructure\\TourTransfer.Infrastructure\\TourTransfer.Infrastructure.csproj",
         "projectName": "TourTransfer.Infrastructure",
-        "projectPath": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Infrastructure\\TourTransfer.Infrastructure\\TourTransfer.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\furkan.zingal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Infrastructure\\TourTransfer.Infrastructure\\obj\\",
+        "projectPath": "D:\\Private\\Project\\TourTransfer\\src\\Infrastructure\\TourTransfer.Infrastructure\\TourTransfer.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\dogan\\.nuget\\packages\\",
+        "outputPath": "D:\\Private\\Project\\TourTransfer\\src\\Infrastructure\\TourTransfer.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\furkan.zingal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dogan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -190,44 +210,52 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Infrastructure\\TourTransfer.Persistence\\TourTransfer.Persistence.csproj": {
+    "D:\\Private\\Project\\TourTransfer\\src\\Infrastructure\\TourTransfer.Persistence\\TourTransfer.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Infrastructure\\TourTransfer.Persistence\\TourTransfer.Persistence.csproj",
+        "projectUniqueName": "D:\\Private\\Project\\TourTransfer\\src\\Infrastructure\\TourTransfer.Persistence\\TourTransfer.Persistence.csproj",
         "projectName": "TourTransfer.Persistence",
-        "projectPath": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Infrastructure\\TourTransfer.Persistence\\TourTransfer.Persistence.csproj",
-        "packagesPath": "C:\\Users\\furkan.zingal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Infrastructure\\TourTransfer.Persistence\\obj\\",
+        "projectPath": "D:\\Private\\Project\\TourTransfer\\src\\Infrastructure\\TourTransfer.Persistence\\TourTransfer.Persistence.csproj",
+        "packagesPath": "C:\\Users\\dogan\\.nuget\\packages\\",
+        "outputPath": "D:\\Private\\Project\\TourTransfer\\src\\Infrastructure\\TourTransfer.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\furkan.zingal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dogan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Core\\TourTransfer.Application\\TourTransfer.Application.csproj": {
-                "projectPath": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Core\\TourTransfer.Application\\TourTransfer.Application.csproj"
+              "D:\\Private\\Project\\TourTransfer\\src\\Core\\TourTransfer.Application\\TourTransfer.Application.csproj": {
+                "projectPath": "D:\\Private\\Project\\TourTransfer\\src\\Core\\TourTransfer.Application\\TourTransfer.Application.csproj"
               },
-              "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Core\\TourTransfer.Domain\\TourTransfer.Domain.csproj": {
-                "projectPath": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Core\\TourTransfer.Domain\\TourTransfer.Domain.csproj"
+              "D:\\Private\\Project\\TourTransfer\\src\\Core\\TourTransfer.Domain\\TourTransfer.Domain.csproj": {
+                "projectPath": "D:\\Private\\Project\\TourTransfer\\src\\Core\\TourTransfer.Domain\\TourTransfer.Domain.csproj"
               }
             }
           }
@@ -299,44 +327,52 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Presentation\\TourTransfer.WebAPI\\TourTransfer.WebAPI.csproj": {
+    "D:\\Private\\Project\\TourTransfer\\src\\Presentation\\TourTransfer.WebAPI\\TourTransfer.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Presentation\\TourTransfer.WebAPI\\TourTransfer.WebAPI.csproj",
+        "projectUniqueName": "D:\\Private\\Project\\TourTransfer\\src\\Presentation\\TourTransfer.WebAPI\\TourTransfer.WebAPI.csproj",
         "projectName": "TourTransfer.WebAPI",
-        "projectPath": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Presentation\\TourTransfer.WebAPI\\TourTransfer.WebAPI.csproj",
-        "packagesPath": "C:\\Users\\furkan.zingal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Presentation\\TourTransfer.WebAPI\\obj\\",
+        "projectPath": "D:\\Private\\Project\\TourTransfer\\src\\Presentation\\TourTransfer.WebAPI\\TourTransfer.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\dogan\\.nuget\\packages\\",
+        "outputPath": "D:\\Private\\Project\\TourTransfer\\src\\Presentation\\TourTransfer.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\furkan.zingal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dogan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Infrastructure\\TourTransfer.Infrastructure\\TourTransfer.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Infrastructure\\TourTransfer.Infrastructure\\TourTransfer.Infrastructure.csproj"
+              "D:\\Private\\Project\\TourTransfer\\src\\Infrastructure\\TourTransfer.Infrastructure\\TourTransfer.Infrastructure.csproj": {
+                "projectPath": "D:\\Private\\Project\\TourTransfer\\src\\Infrastructure\\TourTransfer.Infrastructure\\TourTransfer.Infrastructure.csproj"
               },
-              "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Infrastructure\\TourTransfer.Persistence\\TourTransfer.Persistence.csproj": {
-                "projectPath": "C:\\Users\\furkan.zingal\\Documents\\private_projects\\TourTransfer\\src\\Infrastructure\\TourTransfer.Persistence\\TourTransfer.Persistence.csproj"
+              "D:\\Private\\Project\\TourTransfer\\src\\Infrastructure\\TourTransfer.Persistence\\TourTransfer.Persistence.csproj": {
+                "projectPath": "D:\\Private\\Project\\TourTransfer\\src\\Infrastructure\\TourTransfer.Persistence\\TourTransfer.Persistence.csproj"
               }
             }
           }
@@ -383,7 +419,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
