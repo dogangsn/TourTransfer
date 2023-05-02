@@ -75,6 +75,7 @@ namespace TourTransfer.Persistence.UnitOfWorks
         public void Rollback()
         {
             _dbContext.Database.RollbackTransaction();
+            _dbContext.Dispose();
         }
     }
 }
