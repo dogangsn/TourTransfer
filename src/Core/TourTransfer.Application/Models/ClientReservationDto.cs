@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TourTransfer.Application.Features
+namespace TourTransfer.Application.Models
 {
-    internal class Class1
+    public class ClientReservationDto
     {
     }
 }
