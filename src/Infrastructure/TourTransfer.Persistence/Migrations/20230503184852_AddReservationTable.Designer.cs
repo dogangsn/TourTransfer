@@ -12,8 +12,8 @@ using TourTransfer.Persistence.Context;
 namespace TourTransfer.Persistence.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230501204447_AddReservation")]
-    partial class AddReservation
+    [Migration("20230503184852_AddReservationTable")]
+    partial class AddReservationTable
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

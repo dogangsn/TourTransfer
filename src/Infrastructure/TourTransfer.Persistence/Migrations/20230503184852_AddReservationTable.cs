@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace TourTransfer.Persistence.Migrations
 {
     /// <inheritdoc />
-    public partial class AddReservation : Migration
+    public partial class AddReservationTable : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

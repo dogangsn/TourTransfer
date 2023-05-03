@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace TourTransfer.Domain.Common
 {
-    public abstract class BaseEntity
+    public abstract class BaseEntity : EntityIdBase
     {
-        public Guid Id { get; set; }
         public bool Deleted { get; set; }
         public DateTime RecordDate { get; set; }
         public string RecordUser { get; set; } = string.Empty;
