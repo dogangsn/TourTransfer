@@ -18,5 +18,7 @@ namespace TourTransfer.Domain.Entities
         public string Description { get; set; } = "";
         public int InvoiceTypeId { get; set; }
         public int Adult { get; set; }
+        public Guid DriverId { get; set; }
+
     }
 }
