@@ -9,8 +9,8 @@ namespace TourTransfer.Domain.Entities
 {
     public class Location : BaseEntity
     {
-        public string Name { get; set; }
-        public Adress Adress { get; set; }
-        public bool Active { get; set; }
+        public string Name { get; set; } = string.Empty; 
+        public virtual Adress Adress { get; set; } = new Adress();
+        public bool Active { get; set; } = true;
     }
 }
