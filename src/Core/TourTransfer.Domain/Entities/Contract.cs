@@ -7,9 +7,9 @@ using TourTransfer.Domain.Common;
 
 namespace TourTransfer.Domain.Entities
 {
-    public class Regions : BaseEntity
+    public class Contract : BaseEntity
     {
-        public string RegionName { get; set; } = string.Empty;
-        public string Location { get; set; } = string.Empty;
+        //KM başına fiyat girilmesi durumu bu table üstünde tutulacak (F.Z)
+        public Guid RegionMappingId { get; set; }
     }
 }
